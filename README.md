@@ -128,12 +128,6 @@ production environment.
 
 ------------------------------------------------------------------------
 
-## Author
-
-Mark Lukasczyk
-
-------------------------------------------------------------------------
-
 ## License
 
 This project is provided for reference and learning purposes.
